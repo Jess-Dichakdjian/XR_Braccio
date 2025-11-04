@@ -845,8 +845,8 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: XR_Teleoperation_Braccio
-  metroPackageVersion: 
+  metroPackageName: XRTeleoperationBraccio
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -854,7 +854,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: XR_Teleoperation_Braccio
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: XR_Teleoperation_Braccio
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
